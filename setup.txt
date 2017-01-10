@@ -1,0 +1,6 @@
+1.Make sure u have installed mongodb-server in your system.
+   	If on ubuntu :
+		sudo apt-get install mongodb-server	
+2.To start mongodb: in background preferably.
+	$mongod --dbpath data/db &
+
